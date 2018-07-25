@@ -1,6 +1,10 @@
-.bg-blue {
-    background: #3079AB;
+.bg-white {
+    background: #EEEFF1;
     color: black;
+  }
+
+  .bg-blue{
+      background: #3079AB;
   }
 
   .card-white {
@@ -9,4 +13,26 @@
     box-shadow: 1px 1px 2px #e7e7e7;
     border-radius: 4px;
     margin: 20px 50px;
+    
+  }
+
+  .card-blue{
+    background: #3079AB;
+    padding: 30px;
+    
+    border-radius: 4px;
+    margin: 20px 50px;
+  }
+
+  .outside{
+      color: white;
+  }
+
+  h2{
+      text-align: center;
+  }
+
+  h1{
+      text-align: center;
+      
   }
